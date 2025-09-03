@@ -359,8 +359,8 @@
       "regimen": "Anual",
       "formato": "Taller y Terreno",
       "prerrequisitos": {
-        "requiresCursada": [1,2,3,4,5,6,7,8,9,10],
-        "requiresAcreditar": [10,14,21]
+        "requiresCursada": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10],
+        "requiresAcreditar": [10, 14, 21]
       }
     },
     {
@@ -425,7 +425,7 @@
       "regimen": "Anual",
       "formato": "Taller",
       "prerrequisitos": {
-        "requiresCursada": [27,28],
+        "requiresCursada": [27, 28],
         "requiresAcreditar": []
       }
     },
@@ -436,7 +436,7 @@
       "regimen": "Anual",
       "formato": "Asignatura",
       "prerrequisitos": {
-        "requiresCursada": [6,26],
+        "requiresCursada": [6, 26],
         "requiresAcreditar": []
       }
     },
@@ -473,29 +473,27 @@
         "requiresAcreditar": []
       }
     },
-      {
+    {
       "id": 44,
       "anio": "4to",
       "nombre": "Práctica docente IV",
       "regimen": "Anual",
       "formato": "Taller y Terreno",
       "prerrequisitos": {
-        "requiresCursada": [11,12,13,14,15,16,17,18,19,20,21,22,26],
-        "requiresAcreditar": [24,25,32]
-      },
+        "requiresCursada": [11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 26],
+        "requiresAcreditar": [24, 25, 32]
       }
-         {
+    },
+    {
       "id": 45,
       "anio": "4to",
       "nombre": "UNIDAD CURRICULAR OPTATIVA",
       "regimen": "Anual",
       "formato": "Taller",
       "prerrequisitos": {
-        "requiresCursada": [1,2,3,4,5,6,7,8,9,10,11,12,13,14,15,16,17,18,19,20,21,22],
+        "requiresCursada": [1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22],
         "requiresAcreditar": []
       }
-         }   
+    }
   ]
 }
-        
-  
